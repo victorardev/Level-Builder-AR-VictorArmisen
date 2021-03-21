@@ -4817,6 +4817,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: LunarConsole
       objectReference: {fileID: 0}
+    - target: {fileID: 183544, guid: 6d0acc00cc82d436b9d11446d2ddfef6, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 406632, guid: 6d0acc00cc82d436b9d11446d2ddfef6, type: 3}
       propertyPath: m_RootOrder
       value: 11
@@ -8979,10 +8983,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: HierarchyField
       objectReference: {fileID: 0}
+    - target: {fileID: 1165314373957364, guid: bcc0e6fb439ccc74c850c0ecc139d80e, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 224046873138549576, guid: bcc0e6fb439ccc74c850c0ecc139d80e,
         type: 3}
       propertyPath: m_SizeDelta.x
-      value: 0
+      value: 28
       objectReference: {fileID: 0}
     - target: {fileID: 224526477923251334, guid: bcc0e6fb439ccc74c850c0ecc139d80e,
         type: 3}
@@ -9088,6 +9096,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 224688293831919758, guid: bcc0e6fb439ccc74c850c0ecc139d80e,
+        type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 35
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bcc0e6fb439ccc74c850c0ecc139d80e, type: 3}
