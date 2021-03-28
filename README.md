@@ -15,3 +15,8 @@ iOS build support. UnityHub -> Installs -> Select Unity 2020.2.4f1 -> Add module
 
 Once you have this, you're ready to go. Open the Unity Project ("Level-Builder-AR-VictorArmisen") in the Unity Hub's Projects section. 
 
+# Folder Estructure
+
+Basically, the hierarchy of the folders it is the following one: 
+- Art: Folder which contains all the 3D Assets, Materials, Textures, Animations, UI....
+
