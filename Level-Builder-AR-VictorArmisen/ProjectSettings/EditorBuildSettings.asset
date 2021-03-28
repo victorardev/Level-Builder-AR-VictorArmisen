@@ -6,10 +6,10 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/MyScenes/TouchScreen.unity
+    path: Assets/Scenes/TouchScreen.unity
     guid: 0ada788a37816d940b2dc13fafef6c05
   - enabled: 1
-    path: Assets/MyScenes/ImageTracking.unity
+    path: Assets/Scenes/ImageTracking.unity
     guid: 089a9bdd62f0f2444bd426a497a66b69
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: ebaebbc5e836334498b6679eddcc1502,
